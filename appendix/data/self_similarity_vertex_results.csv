@@ -1,0 +1,11 @@
+﻿model,word,n_examples,self_similarity
+text-multilingual-embedding-002,헤아리다,20,0.6321168990873924
+text-multilingual-embedding-002,생각하다,20,0.6713277765177986
+text-multilingual-embedding-002,부르다,20,0.6863663460212992
+text-multilingual-embedding-002,노래하다,20,0.7149622682898807
+text-multilingual-embedding-002,게우다,12,0.7218874251719479
+text-multilingual-embedding-002,토하다,20,0.7178564608593316
+text-multilingual-embedding-002,굽다,20,0.6643152886006809
+text-multilingual-embedding-002,요리하다,8,0.7493290245222111
+text-multilingual-embedding-002,덥다,17,0.7228419834692826
+text-multilingual-embedding-002,따뜻하다,20,0.7081396034642272
