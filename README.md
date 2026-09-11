@@ -4,8 +4,8 @@ Exploring Informativity, Frequency and Morpho-Syntactic Interface of Simplex Ver
 This research was developed for the MA module "Linguistic Typology and Fieldwork" (Seminar: Linearisierung / Linearization, SS26). 
 The paper examines Polinsky and Magyar's (2020) informativity account on head-final lexicons by probing the computational geometry and corpus distribution of Korean predicate pairs. I appreciate your understanding regarding its preliminary nature and welcome any inquiries or academic discussions related to this work.  
 
-Author: Kai H. Park (Ms)
-Evaluator: Dr. Andreas Blümel at Georg-August-Universität Göttingen. 
+- Author: Kai H. Park (Ms)
+- Evaluator: Dr. Andreas Blümel at Georg-August-Universität Göttingen. 
 
 ## Abstract
 Polinsky and Magyar (2020) propose that head-final languages favor low-informativity simplex verbs and expand their verbal lexicon through light verb constructions (LVCs). This study tests whether Korean simplex verbs are systematically more polysemous, less contextually stable (lower self-similarity), and more frequent than their counterpart root+hata light verb constructions across concept-controlled minimal pairs.  
